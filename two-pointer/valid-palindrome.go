@@ -1,4 +1,4 @@
-package twopointers
+package twopointer
 
 import (
 	"unicode"

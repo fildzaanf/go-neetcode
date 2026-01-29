@@ -1,4 +1,4 @@
-package twopointers
+package twopointer
 
 func ReverseString(s []byte)  {
     left := 0
